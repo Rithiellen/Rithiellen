@@ -2,7 +2,7 @@
 
 + 💻 Estudante de Sistemas de Informação.
 + 🌐 Atualmente estou estudando desenvolvimento web.
-+ 😊 Pronomes: ela/dela
++ 😊 Pronouns: ela/dela
 
 <a href="https://github.com/Rithiellen">
   <img height=200 align="" src="https://github-readme-stats.vercel.app/api?username=Rithiellen&show_icons=true&title_color=ff69b4&bg_color=151515" />
