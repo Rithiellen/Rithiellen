@@ -2,6 +2,7 @@
 
 > Bem-vindo(a) ao meu perfil GitHub!
 
+### Sobre mim:
 + 💻 Cursando Sistemas de Informação no IFNMG.
 + 🌐 Atualmente estou estudando desenvolvimento web.
 + 😊 Pronouns: ela/dela
