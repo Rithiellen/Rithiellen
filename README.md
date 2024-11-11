@@ -1,6 +1,8 @@
 <h1>Oii! Eu sou a Rithiellen Máxima!</h1>
 
-+ 💻 Estudante de Sistemas de Informação.
+> Bem-vindo(a) ao meu perfil GitHub!
+
++ 💻 Cursando Sistemas de Informação no IFNMG.
 + 🌐 Atualmente estou estudando desenvolvimento web.
 + 😊 Pronouns: ela/dela
 
